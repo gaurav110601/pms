@@ -74,7 +74,26 @@ A web-based platform designed to help pharmacies manage daily sales transactions
 
 ## 📸 Screenshots
 
-*(Include key system snapshots here — e.g., Dashboard, Inventory, Sales, Invoice, Reports.)*
+Dashboard Page: <br>
+![image](./assets/images/php-ci-pms-dashboard.png) 
+
+Medicine Name List Page: <br>
+![image](./assets/images/php-ci-pms-medicine-list.png) 
+
+Inventory Page: <br>
+![image](./assets/images/php-ci-pms-inventory.png) 
+
+Sale Transaction Page (Staff-Side): <br>
+![image](./assets/images/php-ci-pms-staff-sales.png) 
+
+Sales Invoice (Staff-Side): <br>
+![image](./assets/images/php-ci-pms-staff-invoice.png) 
+
+Sales Statement Page: <br>
+![image](./assets/images/php-ci-pms-sales-statement.png) 
+
+Profit-Loss Page Report: <br>
+![image](./assets/images/php-ci-pms-profit-loss.png) 
 
 ---
 
